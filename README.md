@@ -1,3 +1,3 @@
 
    　<p align="center">
-  ![](https://komarev.com/ghpvc/?username=your-github-username&label=♡+&color=B9FEC3)
+  ![](komarev.com/sources/github-profile-views-counterlabel=♡+&color=B9FEC3)
