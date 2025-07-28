@@ -1,1 +1,1 @@
-![Page Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEyouing&count_bg=%23FFD93D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Page%20Views&edge_flat=false)
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FEyouing&count_bg=%23FFD93D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=Page%20Views&edge_flat=false
